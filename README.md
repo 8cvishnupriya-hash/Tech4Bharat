@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="app/index.html"><img alt="Open the app" src="https://img.shields.io/badge/open-the%20app-1e3a5f?style=for-the-badge"></a>
+  <a href="https://tech4bharat-theta.vercel.app"><img alt="Live app" src="https://img.shields.io/badge/live-tech4bharat--theta.vercel.app-1e3a5f?style=for-the-badge"></a>
+  <a href="app/index.html"><img alt="Open the app" src="https://img.shields.io/badge/source-app%2Findex.html-122033?style=for-the-badge"></a>
   <img alt="Offline first" src="https://img.shields.io/badge/offline-first-17803d?style=for-the-badge">
   <img alt="English Hindi Tamil Telugu" src="https://img.shields.io/badge/EN%20%C2%B7%20HI%20%C2%B7%20TA%20%C2%B7%20TE-f5a623?style=for-the-badge&labelColor=1a2332">
   <img alt="No build step" src="https://img.shields.io/badge/build-none-e8f7ee?style=for-the-badge&labelColor=122033">
@@ -35,6 +36,12 @@ Fault **F-104**. Part **SKF 6205-2RS**. Node **ESP32-NODE-01**.
 That is the pitch example, stored on the device. Other shops and the other two machines are labelled demo. Nothing here pretends to be a live plant feed.
 
 ---
+
+## See it live
+
+Anyone can open the floor, no login:
+
+**[https://tech4bharat-theta.vercel.app](https://tech4bharat-theta.vercel.app)**
 
 ## Open it in thirty seconds
 
